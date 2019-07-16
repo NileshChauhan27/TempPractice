@@ -7,7 +7,7 @@ function myFunction() {
         getGreeting() {
             return "Hello from person";
         }
-    };
+    };//
     
     let dog = {
         getGreeting() {
